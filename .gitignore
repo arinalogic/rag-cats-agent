@@ -1,0 +1,7 @@
+.env
+venv/
+.venv/
+__pycache__/
+rag_agent.log
+tutor.md
+quickstart.md
